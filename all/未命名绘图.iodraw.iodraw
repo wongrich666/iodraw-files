@@ -19,11 +19,11 @@
         <mxCell id="CovfxMlPx5gYd_KnLe6c-6" value="输入/修改内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="97.76" y="420" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CovfxMlPx5gYd_KnLe6c-7" value="保存和下载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CovfxMlPx5gYd_KnLe6c-7" value="查看输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="97.76" y="480" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CovfxMlPx5gYd_KnLe6c-8" value="保存和下载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="107.76" y="490" width="80" height="30" as="geometry" />
+          <mxGeometry x="97.76" y="555" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
