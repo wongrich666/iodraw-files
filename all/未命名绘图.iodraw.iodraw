@@ -10,8 +10,8 @@
         <mxCell id="CovfxMlPx5gYd_KnLe6c-3" value="登录和注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CovfxMlPx5gYd_KnLe6c-4" value="登录和注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="190" width="70" height="30" as="geometry" />
+        <mxCell id="CovfxMlPx5gYd_KnLe6c-4" value="主页资产列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
