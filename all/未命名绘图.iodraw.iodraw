@@ -16,7 +16,7 @@
         <mxCell id="CovfxMlPx5gYd_KnLe6c-5" value="智慧库标签" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="340" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CovfxMlPx5gYd_KnLe6c-6" value="智慧库标签" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CovfxMlPx5gYd_KnLe6c-6" value="输入/修改内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
